@@ -48,7 +48,7 @@ b {
     cursor: pointer;
     top: 20px;
     right: 25px;
-    font-size: 150%;
+    font-size: 350%; /* initially 150% */
 }
 
 .toggle:before {
@@ -67,7 +67,7 @@ b {
 .wave {
     position: absolute;
     top: 35px;
-    right: 40px;
+    right: 50px; /* initially 40px */
     border-radius: 100%;
     width: 2px;
     height: 2px;
