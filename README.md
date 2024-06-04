@@ -1,4 +1,5 @@
-### Hello, Mark here 
+## Hello, Mark here 
+### [Check it out here](https://mark-eugene-barasu.github.io/Day-Night-toggle/)
 <h1 align="center">
     <img src="ripple.gif" alt="Day and night toggle switch created with CSS" />
 </h1>
