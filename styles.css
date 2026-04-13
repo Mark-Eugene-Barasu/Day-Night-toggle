@@ -8,7 +8,7 @@
     color: var(--text);
     border-radius: 5px;
     box-shadow: 0 3px 0 0 var(--box-shadow);
-    transition: all .3s cubic-bezier(0.4, 0.0, 0.2, 1);
+    transition: all 1s cubic-bezier(0.4, 0.0, 0.2, 1);
 }
 
 h1, 
@@ -60,7 +60,7 @@ b {
 }
 
 .toggle.animate {
-    animation: animate .3s cubic-bezier(0.4, 0.0, 0.2, 1);
+    animation: animate 1s cubic-bezier(0.4, 0.0, 0.2, 1);
 }
 
 /* ------------ 🌊 wave effect ------------ */
@@ -74,7 +74,7 @@ b {
     display: block;
     z-index: -1;
     box-shadow: 0 0 0 0 #212121;
-    transition: box-shadow .3s cubic-bezier(0.4, 0.0, 0.2, 1);
+    transition: box-shadow 1s cubic-bezier(0.4, 0.0, 0.2, 1);
 }
 
 .wave.active {
