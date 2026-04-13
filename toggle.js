@@ -7,5 +7,5 @@ document.querySelector('.toggle').addEventListener('click', function() {
         document.documentElement.classList.toggle('theme-dark');
     }, 150);
     
-    setTimeout(() => this.classList.remove('animate'), 300);
+    setTimeout(() => this.classList.remove('animate'), 1000);
 });
